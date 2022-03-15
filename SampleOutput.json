@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "WTOP"
+            },
+            "author": "Jessica Kronzer, Will Vitka",
+            "title": "Convoy of truckers head back to Capital Beltway - WTOP",
+            "description": "The People’s Convoy, a group of truckers and others who circled the Capital Beltway twice on Sunday headed back on Monday.",
+            "url": "http://wtop.com/local/2022/03/convoy-of-truckers-expected-to-return-to-capital-beltway/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2022/03/convoy6.jpg",
+            "publishedAt": "2022-03-07T16:29:45Z",
+            "content": "They’re back.\r\nThe People’s Convoy, a group of truckers and others who circled the Capital Beltway twice on Sunday hit the gas, the price of which is rising dramatically amid Russia’s invasion of Ukr… [+2838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Michael Schwirtz, Marc Santora",
+            "title": "Russia-Ukraine War: Live Updates and Latest News - The New York Times",
+            "description": "Russian artillery strikes hit residential areas in the southern city of Mykolaiv as Ukrainian forces battled to keep control. Russian and Ukrainian representatives were expected to meet for a third round of talks.",
+            "url": "https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/07/world/07ukraine-blog-header2/07ukraine-blog-header2-facebookJumbo.jpg",
+            "publishedAt": "2022-03-07T16:21:11Z",
+            "content": "PRZEMYSL, Poland Every night at Przemysls graceful 19th-century train station, there is a line of people stepping off packed carriages, fleeing Russias invasion of Ukraine.But every night at this sam… [+3343 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Samantha Murphy Kelly, CNN Business",
+            "title": "What to expect at Apple's first product event of the year - CNN",
+            "description": "Apple is about to hold its first big product event of 2022 and the focus will be on performance. That likely means faster chips, more devices with 5G connectivity and more powerful cameras.",
+            "url": "https://www.cnn.com/2022/03/06/tech/apple-march-event-2022/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220304165427-restricted-2020-iphone-se-file-super-tease.jpg",
+            "publishedAt": "2022-03-07T16:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Damian Carrington",
+            "title": "Climate crisis: Amazon rainforest tipping point is looming, data shows - The Guardian",
+            "description": "Analysis of satellite observations show forest is losing stability with ‘profound’ global implications",
+            "url": "https://amp.theguardian.com/environment/2022/mar/07/climate-crisis-amazon-rainforest-tipping-point",
+            "urlToImage": "https://i.guim.co.uk/img/media/c3d0886863d3dd5bfd0bd45f896fe9a2c541a6a3/0_173_5184_3110/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e579618b84cc094f8d718e1cf1012529",
+            "publishedAt": "2022-03-07T16:02:00Z",
+            "content": "The Amazon is approaching a tipping point, data shows, after which the rainforest would be lost with profound implications for the global climate and biodiversity.\r\nComputer models have previously in… [+5229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Pam Belluck",
+            "title": "Covid May Cause Changes in the Brain, New Study Finds - The New York Times",
+            "description": "Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not.",
+            "url": "https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/07/science/07virus-brain1/07virus-brain1-facebookJumbo.jpg",
+            "publishedAt": "2022-03-07T16:00:13Z",
+            "content": "The main cognitive assessment where Covid patients showed a deficit was the trail-making test, a connect-the-dots type of exercise involving alternating letters and numbers. Covid patients took longe… [+1971 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tim Lister, Luke McGee",
+            "title": "Ukraine slams Moscow's offer to evacuate civilians to Russia and Belarus as 'immoral' - CNN",
+            "description": "Ordinary Ukrainians living in some areas under attack by Russian forces faced a cynical proposal on Monday: stay put and risk getting bombed, or leave home and head for Russia or Belarus.",
+            "url": "https://www.cnn.com/2022/03/07/europe/russia-invasion-ukraine-03-07-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220307044216-refugee-crossing-kyiv-03062022.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-03-07T15:44:00Z",
+            "content": "Ordinary Ukrainians living in some areas under attack by Russian forces faced a cynical proposal on Monday: stay put and risk getting bombed, or leave home and head for Russia or Belarus. \r\nUkrainian… [+3382 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Maryclaire Dale",
+            "title": "Supreme Court won't review decision that freed Bill Cosby - The Associated Press - en Español",
+            "description": "PHILADELPHIA (AP) — The U.S. Supreme Court announced Monday without comment that it would not review Bill Cosby's sexual assault case, leaving him a free man and ending a two-decade legal drama that shifted the cultural landscape, destroyed the groundbreaking…",
+            "url": "https://apnews.com/article/bill-cosby-supreme-court-fcee33c9b309e0e5253b76a18e8325ac",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/af77f2a37d434a78b25375d0aefdc9d7/3000.jpeg",
+            "publishedAt": "2022-03-07T15:31:49Z",
+            "content": "PHILADELPHIA (AP) The U.S. Supreme Court announced Monday without comment that it would not review Bill Cosbys sexual assault case, leaving him a free man and ending a two-decade legal drama that shi… [+4984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Mike McDaniel",
+            "title": "Report: People Inside Duke Program Upset North Carolina Didn’t Honor Coach K - Sports Illustrated",
+            "description": "There still appears to be a healthy amount of bad blood between the ACC rivals.",
+            "url": "https://www.si.com/college/2022/03/07/duke-unhappy-unc-did-not-honor-coach-k",
+            "urlToImage": "https://www.si.com/.image/t_share/MTg3ODk5Njk5MzMxMDgxMjcw/coach-k.jpg",
+            "publishedAt": "2022-03-07T15:29:09Z",
+            "content": "North Carolina spoiled Duke coach Mike Krzyzewski’s home farewell bid at Cameron Indoor Stadium on Saturday night as the Tar Heels upset the No. 4 Blue Devils, 94–81.\r\nBut Sunday’s game isn’t the mos… [+1415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jeremy Fowler",
+            "title": "Aaron Rodgers has contract offer from Green Bay Packers that would alter QB market, source says - ESPN",
+            "description": "The Packers have made a significant long-term contract offer to Aaron Rodgers that would alter the quarterback market, a source told ESPN.",
+            "url": "https://www.espn.com/nfl/story/_/id/33445299/aaron-rodgers-contract-offer-green-bay-packers-alter-qb-market-source-says",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0216%2Fr975328_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-03-07T15:12:46Z",
+            "content": "The Green Bay Packers have made a significant long-term contract offer to Aaron Rodgers that would alter the quarterback market, a source told ESPN.\r\nTerms of a potential new contract could always ch… [+3352 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Caitlin McCabe",
+            "title": "Bed Bath & Beyond Stock Price Soars More Than 60% on Ryan Cohen’s Stake - The Wall Street Journal",
+            "description": "The billionaire investor made a similar investment in GameStop before a meme-stock frenzy",
+            "url": "https://www.wsj.com/articles/bed-bath-beyond-stock-price-soars-premarket-on-ryan-cohens-stake-11646652094",
+            "urlToImage": "https://images.wsj.net/im-499357/social",
+            "publishedAt": "2022-03-07T15:08:00Z",
+            "content": "Shares of Bed Bath &amp; Beyond Inc. skyrocketed after Ryan Cohen, the billionaire co-founder of pet-supplies retailer Chewy Inc . , disclosed a 9.8% stake through his investment firm in the housewar… [+367 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chaim Gartenberg",
+            "title": "The 5G iPhone SE will be for carriers, not customers - The Verge",
+            "description": "Apple’s upcoming iPhone SE is expected to add 5G — and other minor upgrades — in a much faster timeframe than its previous updates to its cheapest line of phones in a move that seems calculated to appease carriers, not customers.",
+            "url": "https://www.theverge.com/2022/3/7/22958173/apple-5g-iphone-se-event-carriers-customers",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/j1GoGNKOuXiL5nOc_z4w0vKI8k0=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19916237/vpavic_042020_3980_0040.jpg",
+            "publishedAt": "2022-03-07T15:00:00Z",
+            "content": "Apples latest 5G upgrade is more marketing than mandatory\r\nApple is widely expected to release a new iPhone SE model this week, the companys third and its quickest update yet for its cheapest line of… [+6383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Arjun Kharpal",
+            "title": "Samsung says hackers breached company data and source code for Galaxy smartphones - CNBC",
+            "description": "Samsung said on Monday hackers breached its internal company data, gaining access to some source codes of Galaxy-branded devices like smartphones.",
+            "url": "https://www.cnbc.com/2022/03/07/samsung-hackers-breached-company-data-source-code-for-galaxy-devices.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106985337-1638843872186-gettyimages-511699270-89401813.jpeg?v=1646446272",
+            "publishedAt": "2022-03-07T14:47:07Z",
+            "content": "Samsung said on Monday that hackers breached its internal company data, gaining access to some source codes of Galaxy-branded devices like smartphones.\r\nThe statement from the South Korean electronic… [+951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Benjamin Lee",
+            "title": "Turning Red review – pandas and pop music collide in solid Pixar caper - The Guardian",
+            "description": "There’s an adequate amount of charm and visual flair in Disney’s latest animation but it remains a far cry from the partnership’s heyday",
+            "url": "https://amp.theguardian.com/film/2022/mar/07/turning-red-review-pandas-and-pop-music-collide-in-solid-pixar-caper",
+            "urlToImage": null,
+            "publishedAt": "2022-03-07T14:35:00Z",
+            "content": "Animation in filmTheres an adequate amount of charm and visual flair in Disneys latest animation but it remains a far cry from the partnerships heyday\r\nThe release of a new Pixar film, once a major, … [+5556 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2022 NFL combine winners and losers: Cincinnati QB Desmond Ridder, crowd of Georgia players among risers - CBS Sports",
+            "description": "Here's who won and lost during combine week in Indianapolis",
+            "url": "https://www.cbssports.com/nfl/draft/news/2022-nfl-combine-winners-and-losers-cincinnati-qb-desmond-ridder-crowd-of-georgia-players-among-risers/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/03/07/7ed67dd0-6f89-404a-84df-9c8318f145c5/thumbnail/1200x675/e41bedb3f2da9e52597c6c866aad8f0a/ridder.jpg",
+            "publishedAt": "2022-03-07T14:31:34Z",
+            "content": "After a year away due to the pandemic, the NFL Scouting Combine returned in a big way. Several prospects put their best foot forward in athletic testing and on-field drills to improve their stock com… [+5570 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Arpan Rai",
+            "title": "One intruder arrested at Joint Base Andrews in security breach moments after Kamala Harris’ departure - The Independent",
+            "description": "Two individuals fled the vehicle, and one them is still at large, say officials",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/kamala-harris-joint-base-andrews-lockdown-b2030191.html",
+            "urlToImage": "https://static.independent.co.uk/2020/09/07/21/AFP_1X21H2.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-03-07T14:30:12Z",
+            "content": "Officials at the Joint Base Andrews arrested one of the two armed intruders who caused a security breach at the military base on Sunday shortly after Vice President Kamala Harris and several cabinet … [+2404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prideofdetroit.com"
+            },
+            "author": "Jeremy Reisman",
+            "title": "Detroit Lions rumors: Recapping the latest buzz from the NFL Combine - Pride Of Detroit",
+            "description": "The NFL Combine is always one of the biggest sources of juicy rumors. Here’s what they’re saying about the Lions.",
+            "url": "https://www.prideofdetroit.com/2022/3/7/22965263/detroit-lions-latest-rumors-nfl-combine-free-agency-draft",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qF1RqyYgaGICEsUhkn_N4N9vTKQ=/0x0:4901x2566/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23294692/1238856619.jpg",
+            "publishedAt": "2022-03-07T14:00:00Z",
+            "content": "The NFL Combine is mostly a stage for draft prospects to make a case for themselves in Aprils NFL Draft. Its their opportunity to shine on the field, off the field, and prove to teams that their medi… [+7407 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "US markets set for lower open; oil prices continue to surge - The Associated Press - en Español",
+            "description": "NEW YORK (AP) — Stocks are opening lower on Wall Street but keeping their losses in check as an early spike in crude oil prices abated. The price of U.S. crude was up 1.8% to $117 a barrel Monday, but off its earlier high of $130 a barrel as talk escalated ov…",
+            "url": "https://apnews.com/article/russia-ukraine-vladimir-putin-business-nancy-pelosi-economy-91fec47e5de9fa734fd0de9c402c2b99",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/073ac921e9f54326903ca865b0144028/3000.jpeg",
+            "publishedAt": "2022-03-07T13:23:32Z",
+            "content": "NEW YORK (AP) Stocks are opening lower on Wall Street but keeping their losses in check as an early spike in crude oil prices abated. The price of U.S. crude was up 1.8% to $117 a barrel Monday, but … [+5524 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Queen holds first in-person engagement since catching COVID - Sky News",
+            "description": "The Queen has held her first in-person engagement since catching COVID, meeting Canadian prime minister Justin Trudeau. The monarch held an audience with Mr ...",
+            "url": "https://www.youtube.com/watch?v=ZRX2i0tQDAQ",
+            "urlToImage": "https://i.ytimg.com/vi/ZRX2i0tQDAQ/maxresdefault.jpg",
+            "publishedAt": "2022-03-07T13:16:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Oil price spikes to $139 on talks about Russia oil ban, Iran deal delay - Reuters.com",
+            "description": "Oil prices spiked to their highest levels since 2008 on Monday amid market supply fears as the United States and European allies considered banning Russian oil imports and prospects for a swift return of Iranian crude to global markets receded.",
+            "url": "https://www.reuters.com/business/energy/oil-spikes-2008-highs-us-europe-mull-russian-oil-import-ban-iran-delay-2022-03-07/",
+            "urlToImage": "https://www.reuters.com/resizer/I-crKSgSwRmRAv45GXAm7PlJi_0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4O6BMOPUFVJHTLLO4QFAHJYWQU.jpg",
+            "publishedAt": "2022-03-07T12:27:00Z",
+            "content": "LONDON, March 7 (Reuters) - Oil prices spiked to their highest levels since 2008 on Monday amid market supply fears as the United States and European allies considered banning Russian oil imports and… [+3676 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Brett Forrest",
+            "title": "Russia Pummels Ukrainian Civilian Targets Ahead of Talks - The Wall Street Journal",
+            "description": "Russian attacks face fierce Ukrainian resistance, as cease-fire talks are set to resume",
+            "url": "https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852",
+            "urlToImage": "https://images.wsj.net/im-499318/social",
+            "publishedAt": "2022-03-07T12:26:00Z",
+            "content": "LVIV, UkraineRussia pursued a pressure campaign in its invasion of Ukraine with nighttime strikes on civilian targets as the war entered its 12th day, while Kyivs military held fast along several fro… [+326 chars]"
+        }
+    ]
+}
